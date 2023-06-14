@@ -1,10 +1,10 @@
 # Terrorism
 Appropriate Analyze About Function Terrorism
 
-                                       Run Program 👀
+                                       __Run Program__   👀
 
 
-                                                        Enter The Password 👀
+                                                        __Enter The Password__  👀
 
 
-                                                                                       What You Want :) 
+                                                                                        :) What You Want :) 
